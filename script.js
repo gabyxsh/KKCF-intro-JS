@@ -2,7 +2,9 @@
 //console log text, expression 
 
 // Create a variable to hold your name as a string
-
+let quantity = "12";
+quantity = Number(quantity)
+console.log (typeof quantity);
 //Concatenate your name variable into a message and log it to the console.
 //Example: “Hello, Zach!” 
 
